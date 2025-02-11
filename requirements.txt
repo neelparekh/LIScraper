@@ -1,1 +1,2 @@
 staffspy[browser]
+selenium
